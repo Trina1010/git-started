@@ -1,1 +1,2 @@
-# git-started every expert was once a beginner.
+# git-started 
+Every expert was once a beginner.
